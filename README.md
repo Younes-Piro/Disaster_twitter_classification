@@ -1,1 +1,1 @@
-this is a disaster classification deep learning 
+this is a disaster classification using LSTM and BERT (DEEP LEARNING MODELS)
